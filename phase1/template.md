@@ -9,7 +9,7 @@ Students:
 - `jonvmieg`, Van Mieghem, Jonas
 - `jasvwild`, Vanwildemeersch, Jasper
 
-Link to github repository: https://github.ugent.be/Py4Sci/project-ay2223-round1-team01
+Link to github repository: xxx
 
 
 ### Thursday 1 (October 27)
