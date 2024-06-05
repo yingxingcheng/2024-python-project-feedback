@@ -4,19 +4,6 @@
 - My office room number: 7.154
 - More personal info can be found on [this page](https://www.ians.uni-stuttgart.de/institute/team/Cheng-00009/).
 
-## Basic Requirements
-
-No more words, show me codes.
-
-- **TO AVOID BIAS**, I'd suggest you provide the codes in a `ZIP` file you did for each week. You can send them to my email with the subject formatted as `Group_{your-group-id}-phase_{phase_id}-week_{week-id}` where:
-    - Your group's ID can be found below for each phase.
-    - The phase ID is `1` for Phase 1 and `2` for Phase 2.
-    - The `week-id` can be 1, 2, or 3, corresponding to the number of weeks after the project starts, with only three weeks in total for both Phase 1 and Phase 2.
-
-- For example, for the **first** week after the project of **Phase 1** is assigned, **Group 09** should send an email to me with the subject being `Group_09-phase_1-week_1`.
-- You probably also need to point out who did what. For this, we can discuss it in person in my office (7.154) when I am free (see the available time slots below), or you can specify it in the code.
-
-
 ## Phase 1
 
 ### Available Time Slots
