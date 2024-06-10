@@ -21,8 +21,8 @@ For Phase 1, my available office times for discusstion are listed below:
 
 - Tuesday (Jun 11, 2024) 2:00 pm – 4:00 pm
   - [x] 2:00 pm -- 2:15 pm: `VierGewinnta` (Group 13).
-  - [ ] 2:15 pm -- 2:30 pm:
-  - [ ] 2:30 pm -- 2:45 pm:
+  - [x] 2:15 pm -- 2:30 pm: `Magnetfeld` (Group 01).
+  - [x] 2:30 pm -- 2:45 pm: `Magnetfeld` (Group 02)
   - [ ] 2:45 pm -- 3:00 pm:
   - [ ] 3:00 pm -- 3:15 pm:
   - [ ] 3:15 pm -- 3:30 pm:
