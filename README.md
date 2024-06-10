@@ -6,7 +6,7 @@
 
 :warning: **NOTE**:
 
-- **Based on Bernard's comment, a 15-minute discussion is mandatory and should be held every week for each group for asking questions and presenting the current state.**
+- **Based on Bernard's comment, a 15-minute discussion is mandatory and should be held every week for each group for asking questions and presenting the current state.Two meetings in total are mandatory for each phase.**
 - I'm available to discuss in person or online. My available office times can be found below for each phase. Please let me know if you prefer to use `Webex` for online meeting and provide the room link in advance.
 - You can also write an email if you have any questions related to the projects.
 - [Optional] You are all free to open an issue on this GitHub repository to ask any questions related to the project when you need help. Please mention the group ID and format your question clearly. More details about [how to open an issue on GitHub](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
@@ -29,7 +29,9 @@ For Phase 1, my available office times for discusstion are listed below:
 - Wednesday (Jun 19, 2024) 2:00 pm – 4:00 pm
 - Thursday (Jun 20, 2024) 2:00 pm – 4:00 pm
 
-#### Week 3
+#### Week 3 [optional]
+
+It is not mandatory to discuss in this week.
 
 - Monday (Jun 24, 2024) 1:30 pm – 4:00 pm
 - Tuesday (Jun 25, 2024) 1:30 pm – 4:00 pm
