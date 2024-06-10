@@ -6,6 +6,7 @@
 
 :warning: **NOTE**:
 
+- **Please check this page frequently for the latest information on times.**
 - Based on Bernard's comment, a 15-minute discussion is **mandatory** and should be held every week for each group for asking questions and presenting the current state. **Two** meetings in total are mandatory for each phase.
 - I'm available to discuss in person or online. My available office times can be found below for each phase. Please let me know if you prefer to use `Webex` for online meeting and provide the room link in advance.
 - You can also write an email if you have any questions related to the projects.
