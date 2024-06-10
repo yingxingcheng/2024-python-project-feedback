@@ -4,32 +4,34 @@
 - My office room number: 7.154
 - More personal info can be found on [this page](https://www.ians.uni-stuttgart.de/institute/team/Cheng-00009/).
 
-:warning: **NOTE**: You are all free to open an issue on this GitHub repository to ask any questions related to the project when you need help. Please mention the group ID and format the question clearly.
+:warning: **NOTE**:
 
+- **Based on Bernard's comment, this discussion is mandatory and should be held every week for each group for asking questions and presenting the current state.**
+- You can also write an email if you have any questions related to the projects.
+- [Optional] You are all free to open an issue on this GitHub repository to ask any questions related to the project when you need help. Please mention the group ID and format your question clearly. More details about [how to open an issue on GitHub](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
 
 ## Phase 1
 
 ### Available Time Slots
 
-For Phase 1, my available times are listed below:
+For Phase 1, my available office times for discusstion are listed below:
 
 #### Week 1
 
-- Tuesday 2:00 pm – 4:00 pm
-- Wednesday 2:00 pm – 4:00 pm
-- Thursday 2:00 pm – 4:00 pm
+- Tuesday (Jun 11, 2024) 2:00 pm – 4:00 pm
+- Wednesday (Jun 12, 2024) 2:00 pm – 4:00 pm
+- Thursday (Jun 13, 2024) 2:00 pm – 4:00 pm
 
 #### Week 2
 
-- Tuesday 2:00 pm – 4:00 pm
-- Wednesday 2:00 pm – 4:00 pm
-- Thursday 2:00 pm – 4:00 pm
+- Tuesday (Jun 18, 2024) 2:00 pm – 4:00 pm
+- Wednesday (Jun 19, 2024) 2:00 pm – 4:00 pm
+- Thursday (Jun 20, 2024) 2:00 pm – 4:00 pm
 
 #### Week 3
 
-- Monday 2:00 pm – 4:00 pm
-- Tuesday 2:00 pm – 4:00 pm
-- Wednesday 2:00 pm – 4:00 pm
+- Monday (Jun 24, 2024) 1:30 pm – 4:00 pm
+- Tuesday (Jun 25, 2024) 1:30 pm – 4:00 pm
 
 ### Group Info
 
@@ -55,7 +57,7 @@ For Phase 1, my available times are listed below:
 
 ### Available Time Slots
 
-For Phase 2, my personal available times are listed below:
+For Phase 2, my available office times for discusstion are listed below:
 
 - TODO: YY-MM-DD
 - TODO: YY-MM-DD
