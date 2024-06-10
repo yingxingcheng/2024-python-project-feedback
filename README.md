@@ -27,9 +27,9 @@ For Phase 1, my available times are listed below:
 
 #### Week 3
 
+- Monday 2:00 pm – 4:00 pm
 - Tuesday 2:00 pm – 4:00 pm
 - Wednesday 2:00 pm – 4:00 pm
-- Thursday 2:00 pm – 4:00 pm
 
 ### Group Info
 
