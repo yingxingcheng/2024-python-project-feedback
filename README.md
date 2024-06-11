@@ -8,11 +8,11 @@ This project involves providing feedback for several projects supervised by Ying
 - **Two** meetings in total are mandatory for each phase.
 - **Please check this page frequently for the latest information on times.**
 
-:warning: **How do we organize the meeting?**:
+:warning: **How do we organize the meeting?**
 
 - I'm available to discuss in person or online. My available office times can be found below for each phase. Please let me know if you prefer to use `Webex` for online meeting and provide the room link in advance.
 
-**What if you have questions when I am unavailable?**
+:warning: **What if you have questions when I am unavailable?**
 
 - You can write an email if you have any questions related to the projects.
 - [*Optional but highly recommended*] You are all free to open an issue on this GitHub repository to ask any questions related to the project when you need help. Please mention the group ID and format your question clearly. More details about [how to open an issue on GitHub](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
