@@ -45,7 +45,7 @@ For Phase 1, my available office times for discusstion are listed below:
   - [x] 2:00 pm -- 2:15 pm: `Magnetfeld` (Group 05).
   - [ ] 2:15 pm -- 2:30 pm:
   - [ ] 2:30 pm -- 2:45 pm:
-  - [ ] 2:45 pm -- 3:00 pm:
+  - [x] 2:45 pm -- 3:00 pm: `Newton-Fraktale` (Group 06).
   - [ ] 3:00 pm -- 3:15 pm:
   - [ ] 3:15 pm -- 3:30 pm:
   - [ ] 3:30 pm -- 3:45 pm:
@@ -85,7 +85,7 @@ It is not mandatory to discuss in this week.
 | 03    | Gasparro, Emrulai      | Magnetfeld     | Cheng      |
 | 04    | Simon Rehwald, Thomas Zentarra      | Magnetfeld     | Cheng      |
 | 05    | Schneider, Ilea Sittler     | Magnetfeld     | Cheng      |
-| 06    | Albrecht, Schober      | Newton-Fraktale| Cheng      |
+| 06    | Michel Albrecht, Merlin Schober      | Newton-Fraktale| Cheng      |
 | 07    | Alina Sattler, Seitz   | Newton-Fraktale| Cheng      |
 | 08    | Grabisch, Schöck       | Newton-Fraktale| Cheng      |
 | 09    | Richter, Julia Henning | Newton-Fraktale| Cheng      |
