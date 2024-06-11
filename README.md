@@ -81,7 +81,7 @@ It is not mandatory to discuss in this week.
 | Group | Participants           | Project        | Supervisor |
 |-------|------------------------|----------------|------------|
 | 01    | Julia Abele, Anna Bernauer        | Magnetfeld     | Cheng      |
-| 02    | Frei, Weber            | Magnetfeld     | Cheng      |
+| 02    | Stefanie Frei, Anna Weber            | Magnetfeld     | Cheng      |
 | 03    | Gasparro, Emrulai      | Magnetfeld     | Cheng      |
 | 04    | Simon Rehwald, Thomas Zentarra      | Magnetfeld     | Cheng      |
 | 05    | Schneider, Ilea Sittler     | Magnetfeld     | Cheng      |
