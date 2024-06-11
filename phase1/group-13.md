@@ -7,7 +7,7 @@ Students:
 - Bianca Löhn
 - Amelie Reick
 
-### Thuesday first week (June 11)
+### Thuesday (June 11)
 
 Summary of feedback after first week
 
@@ -15,14 +15,11 @@ Below, you'll find a summary of our discussion.
 
 **Activity:**
 
-- Existing useful code for the heuristic method and the minimax algorithm.
-
-**Creativity:**
-
-- Try to modularize the Python script to reduce its length.
+- Existing useful code for the heuristic method and the minimax algorithm, i.e., (a)-(c).
 
 **Prosperity:**
 
+- Try to modularize the Python script to reduce its length.
 - To visualize the results, `Pygame` is suggested.
 - Visualizing the results of the minimax algorithm is recommended. Tree structure implemented in the project is highly recommended.
 - Consider documenting the code using the `Numpydoc` style.
