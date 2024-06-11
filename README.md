@@ -43,21 +43,21 @@ For Phase 1, my available office times for discusstion are listed below:
 
 - Wednesday (Jun 12, 2024) 2:00 pm – 4:00 pm
   - [x] 2:00 pm -- 2:15 pm: `Magnetfeld` (Group 05).
-  - [ ] 2:15 pm -- 2:30 pm:
+  - [x] 2:15 pm -- 2:30 pm: `Viergewinnt` (Group 15).
   - [ ] 2:30 pm -- 2:45 pm:
-  - [x] 2:45 pm -- 3:00 pm: `Newton-Fraktale` (Group 06).
+  - [x] 2:45 pm -- 3:00 pm: `Newton-Fraktale` (Group 06, online, link by email 15 mins before the meeting).
   - [ ] 3:00 pm -- 3:15 pm:
   - [ ] 3:15 pm -- 3:30 pm:
   - [ ] 3:30 pm -- 3:45 pm:
   - [ ] 3:45 pm -- 4:00 pm:
-
 
 - Thursday (Jun 13, 2024) 2:00 pm – 4:00 pm
   - [x] 2:00 pm -- 2:15 pm: `Magnetfeld` (Group 04).
   - [ ] 2:15 pm -- 2:30 pm:
   - [ ] 2:30 pm -- 2:45 pm:
   - [ ] 2:45 pm -- 3:00 pm:
-  - [ ] 3:00 pm -- 3:15 pm:
+  - [x] 3:00 pm -- 3:15 pm: `VierGewinnt` (Group 14, online).
+    - Meeting link: see [here](https://meet313.webex.com/meet313/j.php?MTID=mcebe9bb8b97e4cee4fda906fdd8d3387).
   - [ ] 3:15 pm -- 3:30 pm:
   - [ ] 3:30 pm -- 3:45 pm:
   - [ ] 3:45 pm -- 4:00 pm:
@@ -87,7 +87,7 @@ For Phase 1, my available office times for discusstion are listed below:
 
 
 - Thursday (Jun 20, 2024) 2:00 pm – 4:00 pm
-  - [ ] 2:00 pm -- 2:15 pm:
+  - [x] 2:00 pm -- 2:15 pm: `Viergewinnt` (Group 15).
   - [ ] 2:15 pm -- 2:30 pm:
   - [ ] 2:30 pm -- 2:45 pm:
   - [ ] 2:45 pm -- 3:00 pm:
@@ -108,20 +108,20 @@ It is not mandatory to discuss in this week.
 | Group | Participants           | Project        | Supervisor |
 |-------|------------------------|----------------|------------|
 | 01    | Julia Abele, Anna Bernauer        | Magnetfeld     | Cheng      |
-| 02    | Stefanie Frei, Anna Weber            | Magnetfeld     | Cheng      |
-| 03    | Gasparro, Emrulai      | Magnetfeld     | Cheng      |
-| 04    | Simon Rehwald, Thomas Zentarra      | Magnetfeld     | Cheng      |
-| 05    | Schneider, Ilea Sittler     | Magnetfeld     | Cheng      |
-| 06    | Michel Albrecht, Merlin Schober      | Newton-Fraktale| Cheng      |
-| 07    | Alina Sattler, Seitz   | Newton-Fraktale| Cheng      |
-| 08    | Grabisch, Schöck       | Newton-Fraktale| Cheng      |
-| 09    | Richter, Julia Henning | Newton-Fraktale| Cheng      |
-| 10    | Schwegler, Wagner      | Newton-Fraktale| Cheng      |
-| 11    | Cichy, Hirsch          | Viergewinnt    | Cheng      |
-| 12    | Karagol, Kittich       | Viergewinnt    | Cheng      |
-| 13    | Bianca Löhn, Amelie Reick            | Viergewinnt    | Cheng      |
-| 14    | Meßmer, Meister        | Viergewinnt    | Cheng      |
-| 15    | Wüst, Reimund          | Viergewinnt    | Cheng      |
+| 02    | Stefanie Frei, Anna Weber         | Magnetfeld     | Cheng      |
+| 03    | Gasparro, Emrulai                 | Magnetfeld     | Cheng      |
+| 04    | Simon Rehwald, Thomas Zentarra    | Magnetfeld     | Cheng      |
+| 05    | Schneider, Ilea Sittler           | Magnetfeld     | Cheng      |
+| 06    | Michel Albrecht, Merlin Schober   | Newton-Fraktale| Cheng      |
+| 07    | Alina Sattler, Seitz              | Newton-Fraktale| Cheng      |
+| 08    | Grabisch, Schöck                  | Newton-Fraktale| Cheng      |
+| 09    | Richter, Julia Henning            | Newton-Fraktale| Cheng      |
+| 10    | Schwegler, Wagner                 | Newton-Fraktale| Cheng      |
+| 11    | Cichy, Hirsch                     | Viergewinnt    | Cheng      |
+| 12    | Karagol, Kittich                  | Viergewinnt    | Cheng      |
+| 13    | Bianca Löhn, Amelie Reick         | Viergewinnt    | Cheng      |
+| 14    | Marlene Meßmer, Sarah Meister     | Viergewinnt    | Cheng      |
+| 15    | Sonja Wüst, Rebekka Reimund       | Viergewinnt    | Cheng      |
 
 ### Some Project Hints
 
