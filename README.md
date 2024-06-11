@@ -41,7 +41,7 @@ For Phase 1, my available office times for discusstion are listed below:
   - [x] 2:15 pm -- 2:30 pm: `Viergewinnt` (Group 15).
   - [x] 2:30 pm -- 2:45 pm: `Newton-Fraktale` (Group 08)
   - [x] 2:45 pm -- 3:00 pm: `Newton-Fraktale` (Group 06, online, link by email 15 mins before the meeting).
-  - [ ] 3:00 pm -- 3:15 pm:
+  - [x] 3:00 pm -- 3:15 pm: `Magnetfeld` (Group 03).
   - [ ] 3:15 pm -- 3:30 pm:
   - [ ] 3:30 pm -- 3:45 pm:
   - [ ] 3:45 pm -- 4:00 pm:
@@ -102,9 +102,9 @@ It is not mandatory to discuss in this week.
 
 | Group | Participants           | Project        | Supervisor |
 |-------|------------------------|----------------|------------|
-| 01    | Julia Abele, Anna Bernauer        | Magnetfeld     | Cheng      |
-| 02    | Stefanie Frei, Anna Weber         | Magnetfeld     | Cheng      |
-| 03    | Gasparro, Emrulai                 | Magnetfeld     | Cheng      |
+| 01    | Julia Abele, Anna Bernauer        | [Magnetfeld](./phase1/group-01.md)     | Cheng      |
+| 02    | Stefanie Frei, Anna Weber         | [Magnetfeld](./phase1/group-02.md)     | Cheng      |
+| 03    | Aurelio Gasparro, Anisa Emrulai   | Magnetfeld     | Cheng      |
 | 04    | Simon Rehwald, Thomas Zentarra    | Magnetfeld     | Cheng      |
 | 05    | Schneider, Ilea Sittler           | Magnetfeld     | Cheng      |
 | 06    | Michel Albrecht, Merlin Schober   | Newton-Fraktale| Cheng      |
@@ -114,7 +114,7 @@ It is not mandatory to discuss in this week.
 | 10    | Schwegler, Wagner                 | Newton-Fraktale| Cheng      |
 | 11    | Cichy, Hirsch                     | Viergewinnt    | Cheng      |
 | 12    | Karagol, Kittich                  | Viergewinnt    | Cheng      |
-| 13    | Bianca Löhn, Amelie Reick         | Viergewinnt    | Cheng      |
+| 13    | Bianca Löhn, Amelie Reick         | [Viergewinnt](./phase1/group-13.md)    | Cheng      |
 | 14    | Marlene Meßmer, Sarah Meister     | Viergewinnt    | Cheng      |
 | 15    | Sonja Wüst, Rebekka Reimund       | Viergewinnt    | Cheng      |
 
