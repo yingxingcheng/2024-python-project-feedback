@@ -123,6 +123,17 @@ It is not mandatory to discuss in this week.
 | 14    | Meßmer, Meister        | Viergewinnt    | Cheng      |
 | 15    | Wüst, Reimund          | Viergewinnt    | Cheng      |
 
+### Some Project Hints
+
+- Magnetfeld
+  - Two references for the exact solution of the magnetic field induced by a finite straight line have been added. See [issue 1](https://github.com/yingxingcheng/2024-python-project-feedback/issues/1).
+
+- Newton-Fraktale
+
+- Viergewinnt
+  - The opening database in the latest extension is not specified for `Viergewinnt`. It can be one of `Teeko`, `Ugolki`, or `Chess`.
+
+
 ## Phase 2
 
 ### Available Time Slots
