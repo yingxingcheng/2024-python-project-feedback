@@ -42,15 +42,12 @@ For Phase 1, my available office times for discusstion are listed below:
   - [x] 2:30 pm -- 2:45 pm: `Newton-Fraktale` (Group 08)
   - [x] 2:45 pm -- 3:00 pm: `Newton-Fraktale` (Group 06, online, link by email 15 mins before the meeting).
   - [x] 3:00 pm -- 3:15 pm: `Magnetfeld` (Group 03).
-  - [ ] 3:15 pm -- 3:30 pm:
-  - [ ] 3:30 pm -- 3:45 pm:
-  - [ ] 3:45 pm -- 4:00 pm:
 
 - Thursday (Jun 13, 2024) 2:00 pm – 4:00 pm
   - [x] 2:00 pm -- 2:15 pm: `Magnetfeld` (Group 04).
-  - [X] 2:15 pm -- 2:30 pm: `Newton-Fraktale` (Group 7)
-  - [ ] 2:30 pm -- 2:45 pm:
-  - [ ] 2:45 pm -- 3:00 pm:
+  - [x] 2:15 pm -- 2:30 pm: `Newton-Fraktale` (Group 07)
+  - [x] 2:30 pm -- 2:45 pm: not available
+  - [x] 2:45 pm -- 3:00 pm: not available
   - [x] 3:00 pm -- 3:15 pm: `VierGewinnt` (Group 14, online).
     - Meeting link: see [here](https://meet313.webex.com/meet313/j.php?MTID=mcebe9bb8b97e4cee4fda906fdd8d3387).
   - [ ] 3:15 pm -- 3:30 pm:
@@ -63,7 +60,7 @@ For Phase 1, my available office times for discusstion are listed below:
 - Tuesday (Jun 18, 2024) 2:00 pm – 4:00 pm
   - [x] 2:00 pm -- 2:15 pm: `VierGewinnta` (Group 13).
   - [x] 2:15 pm -- 2:30 pm: `Magnetfeld` (Group 01).
-  - [x] 2:30 pm -- 2:45 pm: `Magnetfeld` (Group 03).
+  - [ ] 2:30 pm -- 2:45 pm:
   - [ ] 2:45 pm -- 3:00 pm:
   - [ ] 3:00 pm -- 3:15 pm:
   - [ ] 3:15 pm -- 3:30 pm:
@@ -73,8 +70,8 @@ For Phase 1, my available office times for discusstion are listed below:
 - Wednesday (Jun 19, 2024) 2:00 pm – 4:00 pm
   - [x] 2:00 pm -- 2:15 pm: `Newton-Fraktale` (Group 08)
   - [x] 2:15 pm -- 2:30 pm: `Magnetfeld` (Group 05)
-  - [ ] 2:30 pm -- 2:45 pm:
-  - [x] 2:45 pm -- 3:00 pm: `Newton-Fraktale` (Group 06, online, link by email 15 mins before the meeting)?
+  - [x] 2:30 pm -- 2:45 pm: `Magnetfeld` (Group 03).
+  - [x] 2:45 pm -- 3:00 pm: `Newton-Fraktale` (Group 06, online, link by email 15 mins before the meeting)
   - [ ] 3:00 pm -- 3:15 pm:
   - [ ] 3:15 pm -- 3:30 pm:
   - [ ] 3:30 pm -- 3:45 pm:
@@ -95,8 +92,15 @@ For Phase 1, my available office times for discusstion are listed below:
 
 It is not mandatory to discuss in this week.
 
-- Monday (Jun 24, 2024) 1:30 pm – 4:00 pm
-- Tuesday (Jun 25, 2024) 1:30 pm – 4:00 pm
+- Monday (Jun 24, 2024) 2:00 pm – 4:00 pm
+  - [ ] 2:00 pm -- 2:15 pm:
+  - [ ] 2:15 pm -- 2:30 pm:
+  - [ ] 2:30 pm -- 2:45 pm:
+  - [ ] 2:45 pm -- 3:00 pm:
+  - [ ] 3:00 pm -- 3:15 pm:
+  - [ ] 3:15 pm -- 3:30 pm:
+  - [ ] 3:30 pm -- 3:45 pm:
+  - [ ] 3:45 pm -- 4:00 pm:
 
 ### Group Info
 
