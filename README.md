@@ -104,19 +104,19 @@ It is not mandatory to discuss in this week.
 |-------|------------------------|----------------|------------|
 | 01    | Julia Abele, Anna Bernauer        | [Magnetfeld](./phase1/group-01.md)     | Cheng      |
 | 02    | Stefanie Frei, Anna Weber         | [Magnetfeld](./phase1/group-02.md)     | Cheng      |
-| 03    | Aurelio Gasparro, Anisa Emrulai   | Magnetfeld     | Cheng      |
+| 03    | Aurelio Gasparro, Anisa Emrulai   | [Magnetfeld](./phase1/group-03.md)     | Cheng      |
 | 04    | Simon Rehwald, Thomas Zentarra    | Magnetfeld     | Cheng      |
-| 05    | Schneider, Ilea Sittler           | Magnetfeld     | Cheng      |
-| 06    | Michel Albrecht, Merlin Schober   | Newton-Fraktale| Cheng      |
+| 05    | Emily Schneider, Ilea Sittler     | [Magnetfeld](./phase1/group-05.md)     | Cheng      |
+| 06    | Michel Albrecht, Merlin Schober   | [Newton-Fraktale](./phase1/group-06.md)| Cheng      |
 | 07    | Alina Sattler, Seitz              | Newton-Fraktale| Cheng      |
-| 08    | Sandra Grabisch, Nico Schöck      | Newton-Fraktale| Cheng      |
+| 08    | Sandra Grabisch, Nico Schöck      | [Newton-Fraktale](./phase1/group-08.md)| Cheng      |
 | 09    | Richter, Julia Henning            | Newton-Fraktale| Cheng      |
 | 10    | Schwegler, Wagner                 | Newton-Fraktale| Cheng      |
 | 11    | Cichy, Hirsch                     | Viergewinnt    | Cheng      |
 | 12    | Karagol, Kittich                  | Viergewinnt    | Cheng      |
 | 13    | Bianca Löhn, Amelie Reick         | [Viergewinnt](./phase1/group-13.md)    | Cheng      |
 | 14    | Marlene Meßmer, Sarah Meister     | Viergewinnt    | Cheng      |
-| 15    | Sonja Wüst, Rebekka Reimund       | Viergewinnt    | Cheng      |
+| 15    | Sonja Wüst, Rebekka Reimund       | [Viergewinnt](./phase1/group-15.md)    | Cheng      |
 
 ### Some Project Hints
 
