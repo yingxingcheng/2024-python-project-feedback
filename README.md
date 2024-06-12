@@ -71,7 +71,7 @@ For Phase 1, my available office times for discusstion are listed below:
   - [ ] 3:45 pm -- 4:00 pm:
 
 - Wednesday (Jun 19, 2024) 2:00 pm – 4:00 pm
-  - [ ] 2:00 pm -- 2:15 pm:
+  - [x] 2:00 pm -- 2:15 pm: `Newton-Fraktale` (Group 08)
   - [ ] 2:15 pm -- 2:30 pm:
   - [ ] 2:30 pm -- 2:45 pm:
   - [ ] 2:45 pm -- 3:00 pm:
