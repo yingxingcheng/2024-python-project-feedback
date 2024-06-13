@@ -29,6 +29,7 @@ This project involves providing feedback for several projects supervised by Ying
 
 For Phase 1, my available office times for discusstion are listed below:
 
+<s>
 #### Week 1
 
 - Tuesday (Jun 11, 2024) 2:00 pm – 4:00 pm
@@ -50,9 +51,7 @@ For Phase 1, my available office times for discusstion are listed below:
   - [x] 2:45 pm -- 3:00 pm: not available
   - [x] 3:00 pm -- 3:15 pm: `VierGewinnt` (Group 14, online).
     - Meeting link: see [here](https://meet313.webex.com/meet313/j.php?MTID=mcebe9bb8b97e4cee4fda906fdd8d3387).
-  - [ ] 3:15 pm -- 3:30 pm:
-  - [ ] 3:30 pm -- 3:45 pm:
-  - [ ] 3:45 pm -- 4:00 pm:
+</s>
 
 
 #### Week 2
@@ -109,17 +108,17 @@ It is not mandatory to discuss in this week.
 | 01    | Julia Abele, Anna Bernauer        | [Magnetfeld](./phase1/group-01.md)     | Cheng      |
 | 02    | Stefanie Frei, Anna Weber         | [Magnetfeld](./phase1/group-02.md)     | Cheng      |
 | 03    | Aurelio Gasparro, Anisa Emrulai   | [Magnetfeld](./phase1/group-03.md)     | Cheng      |
-| 04    | Simon Rehwald, Thomas Zentarra    | Magnetfeld     | Cheng      |
+| 04    | Simon Rehwald, Thomas Zentarra    | [Magnetfeld](./phase1/group-04.md)     | Cheng      |
 | 05    | Emily Schneider, Ilea Sittler     | [Magnetfeld](./phase1/group-05.md)     | Cheng      |
 | 06    | Michel Albrecht, Merlin Schober   | [Newton-Fraktale](./phase1/group-06.md)| Cheng      |
-| 07    | Alina Sattler, Seitz              | Newton-Fraktale| Cheng      |
+| 07    | Alina Sattler, Lucia-Bettina Seitz| [Newton-Fraktale](./phase1/group-07.md)| Cheng      |
 | 08    | Sandra Grabisch, Nico Schöck      | [Newton-Fraktale](./phase1/group-08.md)| Cheng      |
 | 09    | Richter, Julia Henning            | Newton-Fraktale| Cheng      |
 | 10    | Luca Schwegler, Michael Wagner    | Newton-Fraktale| Cheng      |
 | 11    | Cichy, Hirsch                     | Viergewinnt    | Cheng      |
 | 12    | Karagol, Kittich                  | Viergewinnt    | Cheng      |
 | 13    | Bianca Löhn, Amelie Reick         | [Viergewinnt](./phase1/group-13.md)    | Cheng      |
-| 14    | Marlene Meßmer, Sarah Meister     | Viergewinnt    | Cheng      |
+| 14    | Marlene Meßmer, Sarah Meister     | [Viergewinnt](./phase1/group-14.md)    | Cheng      |
 | 15    | Sonja Wüst, Rebekka Reimund       | [Viergewinnt](./phase1/group-15.md)    | Cheng      |
 
 ### Some Project Hints
