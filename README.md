@@ -71,7 +71,7 @@ For Phase 1, my available office times for discusstion are listed below:
   - [x] 2:15 pm -- 2:30 pm: `Magnetfeld` (Group 05)
   - [x] 2:30 pm -- 2:45 pm: `Magnetfeld` (Group 03).
   - [x] 2:45 pm -- 3:00 pm: `Newton-Fraktale` (Group 06, online, link by email 15 mins before the meeting)
-  - [ ] 3:00 pm -- 3:15 pm:
+  - [x] 3:00 pm -- 3:15 pm: `Viergewinnt` (Group 11).
   - [ ] 3:15 pm -- 3:30 pm:
   - [ ] 3:30 pm -- 3:45 pm:
   - [ ] 3:45 pm -- 4:00 pm:
