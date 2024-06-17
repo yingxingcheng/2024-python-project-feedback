@@ -115,7 +115,7 @@ It is not mandatory to discuss in this week.
 | 08    | Sandra Grabisch, Nico Schöck      | [Newton-Fraktale](./phase1/group-08.md)| Cheng      |
 | 09    | Richter, Julia Henning            | Newton-Fraktale| Cheng      |
 | 10    | Luca Schwegler, Michael Wagner    | Newton-Fraktale| Cheng      |
-| 11    | Cichy, Hirsch                     | Viergewinnt    | Cheng      |
+| 11    | Carolin Cichy, Katharina Hirsch   | Viergewinnt    | Cheng      |
 | 12    | Karagol, Kittich                  | Viergewinnt    | Cheng      |
 | 13    | Bianca Löhn, Amelie Reick         | [Viergewinnt](./phase1/group-13.md)    | Cheng      |
 | 14    | Marlene Meßmer, Sarah Meister     | [Viergewinnt](./phase1/group-14.md)    | Cheng      |
