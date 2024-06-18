@@ -58,7 +58,7 @@ For Phase 1, my available office times for discusstion are listed below:
 
 - Tuesday (Jun 18, 2024) 2:00 pm – 4:00 pm
   - [x] 2:00 pm -- 2:15 pm: `VierGewinnta` (Group 13).
-  - [x] 2:15 pm -- 2:30 pm: `Magnetfeld` (Group 01, not present).
+  - [x] 2:15 pm -- 2:30 pm: `Magnetfeld` (Group 01, not present due to cancelled registration).
   - [x] 2:30 pm -- 2:45 pm: `Viergewinnt` (Group 12).
 
 - Wednesday (Jun 19, 2024) 2:00 pm – 4:00 pm
@@ -108,7 +108,7 @@ It is not mandatory to discuss in this week.
 | 06    | Michel Albrecht, Merlin Schober   | [Newton-Fraktale](./phase1/group-06.md)| Cheng      |
 | 07    | Alina Sattler, Lucia-Bettina Seitz| [Newton-Fraktale](./phase1/group-07.md)| Cheng      |
 | 08    | Sandra Grabisch, Nico Schöck      | [Newton-Fraktale](./phase1/group-08.md)| Cheng      |
-| 09    | Armin Richter, Julia Henning            | Newton-Fraktale| Cheng      |
+| 09    | Armin Richter, Julia Henning      | Newton-Fraktale| Cheng      |
 | 10    | Luca Schwegler, Michael Wagner    | Newton-Fraktale| Cheng      |
 | 11    | Carolin Cichy, Katharina Hirsch   | Viergewinnt    | Cheng      |
 | 12    | Karagol, Kittich                  | [Viergewinnt](./phase1/group-12.md)    | Cheng      |

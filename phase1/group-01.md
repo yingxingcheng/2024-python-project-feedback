@@ -1,4 +1,4 @@
-# Group 01
+# Group 01 (cancelled registration)
 
 ## Practical details
 
