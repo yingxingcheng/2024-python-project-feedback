@@ -27,3 +27,16 @@ Below, you'll find a summary of our discussion.
 **Other feedback:**
 
 - Question related to opening database: my colleague Michele told me that the opening database specifies the database for Chess or another game, not for Connect Four.
+
+### Thuesday (June 18)
+
+Summary of feedback after second week
+
+Below, you'll find a summary of our discussion.
+
+**Activity:**
+
+- Finishing the code and preparing the LaTeX project report.
+- The level control is good.
+- Various rules have also been applied.
+- The game is implemented using Pygame.
