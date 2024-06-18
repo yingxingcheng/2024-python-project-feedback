@@ -68,7 +68,7 @@ For Phase 1, my available office times for discusstion are listed below:
   - [x] 2:45 pm -- 3:00 pm: `Newton-Fraktale` (Group 06, online, link by email 15 mins before the meeting)
   - [x] 3:00 pm -- 3:15 pm: `Viergewinnt` (Group 11).
   - [ ] 3:15 pm -- 3:30 pm:
-  - [ ] 3:30 pm -- 3:45 pm:
+  - [x] 3:30 pm -- 3:45 pm: `Newton-Fraktale` (Group 09)
   - [ ] 3:45 pm -- 4:00 pm:
 
 
@@ -108,7 +108,7 @@ It is not mandatory to discuss in this week.
 | 06    | Michel Albrecht, Merlin Schober   | [Newton-Fraktale](./phase1/group-06.md)| Cheng      |
 | 07    | Alina Sattler, Lucia-Bettina Seitz| [Newton-Fraktale](./phase1/group-07.md)| Cheng      |
 | 08    | Sandra Grabisch, Nico Schöck      | [Newton-Fraktale](./phase1/group-08.md)| Cheng      |
-| 09    | Richter, Julia Henning            | Newton-Fraktale| Cheng      |
+| 09    | Armin Richter, Julia Henning            | Newton-Fraktale| Cheng      |
 | 10    | Luca Schwegler, Michael Wagner    | Newton-Fraktale| Cheng      |
 | 11    | Carolin Cichy, Katharina Hirsch   | Viergewinnt    | Cheng      |
 | 12    | Karagol, Kittich                  | [Viergewinnt](./phase1/group-12.md)    | Cheng      |
