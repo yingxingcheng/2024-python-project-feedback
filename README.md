@@ -62,25 +62,23 @@ For Phase 1, my available office times for discusstion are listed below:
   - [x] 2:30 pm -- 2:45 pm: `Viergewinnt` (Group 12).
 
 - Wednesday (Jun 19, 2024) 2:00 pm – 4:00 pm
-  - [x] 2:00 pm -- 2:15 pm: `Newton-Fraktale` (Group 08)
-  - [x] 2:15 pm -- 2:30 pm: `Magnetfeld` (Group 05)
+  - [x] 2:00 pm -- 2:15 pm: `Newton-Fraktale` (Group 08).
+  - [x] 2:15 pm -- 2:30 pm: `Magnetfeld` (Group 05).
   - [x] 2:30 pm -- 2:45 pm: `Magnetfeld` (Group 03).
   - [x] 2:45 pm -- 3:00 pm: `Newton-Fraktale` (Group 06, online, link by email 15 mins before the meeting)
   - [x] 3:00 pm -- 3:15 pm: `Viergewinnt` (Group 11).
-  - [ ] 3:15 pm -- 3:30 pm:
   - [x] 3:30 pm -- 3:45 pm: `Newton-Fraktale` (Group 09)
-  - [ ] 3:45 pm -- 4:00 pm:
-
 
 - Thursday (Jun 20, 2024) 2:00 pm – 4:00 pm
   - [ ] 2:00 pm -- 2:15 pm:
   - [x] 2:15 pm -- 2:30 pm: `Newton-Fraktale` (Group 10).
   - [x] 2:30 pm -- 2:45 pm: `Magnetfeld` (Group 04).
-  - [ ] 2:45 pm -- 3:00 pm:
+  - [x] 2:45 pm -- 3:00 pm: `Viergewinnt` (Group 11, online).
+    - See the [link](https://us05web.zoom.us/j/84859783473?pwd=bFDlaXFEIR5JHJpVQjV6KaB94ydslZ.1)
   - [ ] 3:00 pm -- 3:15 pm:
   - [ ] 3:15 pm -- 3:30 pm:
   - [ ] 3:30 pm -- 3:45 pm:
-  - [X] 3:45 pm -- 4:00 pm: `Newton-Fraktale` (Group 07)
+  - [x] 3:45 pm -- 4:00 pm: `Newton-Fraktale` (Group 07).
 
 #### Week 3 [optional]
 
@@ -88,7 +86,8 @@ It is not mandatory to discuss in this week.
 
 - Monday (Jun 24, 2024) 2:00 pm – 4:00 pm
   - [x] 2:00 pm -- 2:15 pm: `Viergewinnt` (Group 15).
-  - [ ] 2:15 pm -- 2:30 pm:
+  - [x] 2:15 pm -- 2:30 pm: `Viergewinnt` (Group 11, online).
+    - See the [link](https://us05web.zoom.us/j/84859783473?pwd=bFDlaXFEIR5JHJpVQjV6KaB94ydslZ.1)
   - [x] 2:30 pm -- 2:45 pm: `Viergewinnt` (Group 12).
   - [ ] 2:45 pm -- 3:00 pm:
   - [ ] 3:00 pm -- 3:15 pm:
