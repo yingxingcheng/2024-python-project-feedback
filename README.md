@@ -92,7 +92,7 @@ It is not mandatory to discuss in this week.
   - [ ] 2:45 pm -- 3:00 pm:
   - [ ] 3:00 pm -- 3:15 pm:
   - [ ] 3:15 pm -- 3:30 pm:
-  - [ ] 3:30 pm -- 3:45 pm:
+  - [x] 3:30 pm -- 3:45 pm: `Magnetfeld` (Group 05).
   - [x] 3:45 pm -- 4:00 pm: `Newton-Fraktale` (Group 10).
 
 ### Group Info
