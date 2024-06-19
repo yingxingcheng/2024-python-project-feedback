@@ -56,6 +56,9 @@ For Phase 1, my available office times for discusstion are listed below:
 
 #### Week 2
 
+<s>
+
+
 - Tuesday (Jun 18, 2024) 2:00 pm – 4:00 pm
   - [x] 2:00 pm -- 2:15 pm: `VierGewinnta` (Group 13).
   - [x] 2:15 pm -- 2:30 pm: `Magnetfeld` (Group 01, not present due to cancelled registration).
@@ -66,8 +69,10 @@ For Phase 1, my available office times for discusstion are listed below:
   - [x] 2:15 pm -- 2:30 pm: `Magnetfeld` (Group 05).
   - [x] 2:30 pm -- 2:45 pm: `Magnetfeld` (Group 03).
   - [x] 2:45 pm -- 3:00 pm: `Newton-Fraktale` (Group 06, online, link by email 15 mins before the meeting)
-  - [x] 3:00 pm -- 3:15 pm: `Viergewinnt` (Group 11).
+  - [x] ~~3:00 pm -- 3:15 pm: `Viergewinnt` (Group 11, online meeting is shifted to Tursday).~~
   - [x] 3:30 pm -- 3:45 pm: `Newton-Fraktale` (Group 09)
+
+</s>
 
 - Thursday (Jun 20, 2024) 2:00 pm – 4:00 pm
   - [ ] 2:00 pm -- 2:15 pm:
@@ -80,7 +85,7 @@ For Phase 1, my available office times for discusstion are listed below:
   - [ ] 3:30 pm -- 3:45 pm:
   - [x] 3:45 pm -- 4:00 pm: `Newton-Fraktale` (Group 07).
 
-#### Week 3 [optional]
+#### Week 3
 
 It is not mandatory to discuss in this week.
 
@@ -99,15 +104,15 @@ It is not mandatory to discuss in this week.
 
 | Group | Participants           | Project        | Supervisor |
 |-------|------------------------|----------------|------------|
-| 01    | Julia Abele, Anna Bernauer        | [Magnetfeld](./phase1/group-01.md)     | Cheng      |
-| 02    | Stefanie Frei, Anna Weber         | [Magnetfeld](./phase1/group-02.md)     | Cheng      |
+| ~~01~~| ~~Julia Abele, Anna Bernauer~~    | [Magnetfeld](./phase1/group-01.md)     | Cheng      |
+| ~~02~~| ~~Stefanie Frei, Anna Weber~~     | [Magnetfeld](./phase1/group-02.md)     | Cheng      |
 | 03    | Aurelio Gasparro, Anisa Emrulai   | [Magnetfeld](./phase1/group-03.md)     | Cheng      |
 | 04    | Simon Rehwald, Thomas Zentarra    | [Magnetfeld](./phase1/group-04.md)     | Cheng      |
 | 05    | Emily Schneider, Ilea Sittler     | [Magnetfeld](./phase1/group-05.md)     | Cheng      |
 | 06    | Michel Albrecht, Merlin Schober   | [Newton-Fraktale](./phase1/group-06.md)| Cheng      |
 | 07    | Alina Sattler, Lucia-Bettina Seitz| [Newton-Fraktale](./phase1/group-07.md)| Cheng      |
 | 08    | Sandra Grabisch, Nico Schöck      | [Newton-Fraktale](./phase1/group-08.md)| Cheng      |
-| 09    | Armin Richter, Julia Henning      | Newton-Fraktale| Cheng      |
+| 09    | Armin Richter, Julia Henning      | [Newton-Fraktale](./phase1/group-09.md)| Cheng      |
 | 10    | Luca Schwegler, Michael Wagner    | Newton-Fraktale| Cheng      |
 | 11    | Carolin Cichy, Katharina Hirsch   | Viergewinnt    | Cheng      |
 | 12    | Karagol, Kittich                  | [Viergewinnt](./phase1/group-12.md)    | Cheng      |

@@ -26,3 +26,14 @@ Below, you'll find a summary of our discussion.
 **Other feedback:**
 
 - Whether needs to submit the Latex soruce code? I need to check.
+
+### Wednesday (June 19)
+
+Summary of feedback after second week
+
+Below, you'll find a summary of our discussion.
+
+**Activity:**
+
+- Tasks (a)-(c) have been finished.
+- The way task (c) is visualized is different from the requirement, but it's good. Based on it, more complicated plots can be generated.

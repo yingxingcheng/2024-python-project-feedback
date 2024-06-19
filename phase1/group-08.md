@@ -32,3 +32,14 @@ For how to plot:
 - Use matplotlib to display the fractal by plotting the grid with assigned colors.
 
 A similar plot is used for the number of iterations until convergence.
+
+### Wednesday (June 19)
+
+Summary of feedback after second week
+
+Below, you'll find a summary of our discussion.
+
+**Activity:**
+
+- All basic requirements are finished, with some extensions.
+- The plot is good and provides very nice input for users.
