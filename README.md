@@ -72,18 +72,16 @@ For Phase 1, my available office times for discusstion are listed below:
   - [x] ~~3:00 pm -- 3:15 pm: `Viergewinnt` (Group 11, online meeting is shifted to Tursday).~~
   - [x] 3:30 pm -- 3:45 pm: `Newton-Fraktale` (Group 09)
 
-</s>
-
 - Thursday (Jun 20, 2024) 2:00 pm – 4:00 pm
   - [x] 2:00 pm -- 2:15 pm: `Viergewinnt` (Group 15).
   - [x] 2:15 pm -- 2:30 pm: `Newton-Fraktale` (Group 10).
   - [x] 2:30 pm -- 2:45 pm: `Magnetfeld` (Group 04).
   - [x] 2:45 pm -- 3:00 pm: `Viergewinnt` (Group 11, online).
     - See the [link](https://us05web.zoom.us/j/84859783473?pwd=bFDlaXFEIR5JHJpVQjV6KaB94ydslZ.1)
-  - [ ] 3:00 pm -- 3:15 pm:
-  - [ ] 3:15 pm -- 3:30 pm:
-  - [ ] 3:30 pm -- 3:45 pm:
+  - ~~[x] 3:00 pm -- 3:15 pm: `VierGewinnt` (Group 14, online, I forgot this online meeting).~~
   - [x] 3:45 pm -- 4:00 pm: `Newton-Fraktale` (Group 07).
+
+</s>
 
 #### Week 3
 
@@ -113,9 +111,9 @@ It is not mandatory to discuss in this week.
 | 07    | Alina Sattler, Lucia-Bettina Seitz| [Newton-Fraktale](./phase1/group-07.md)| Cheng      |
 | 08    | Sandra Grabisch, Nico Schöck      | [Newton-Fraktale](./phase1/group-08.md)| Cheng      |
 | 09    | Armin Richter, Julia Henning      | [Newton-Fraktale](./phase1/group-09.md)| Cheng      |
-| 10    | Luca Schwegler, Michael Wagner    | Newton-Fraktale| Cheng      |
-| 11    | Carolin Cichy, Katharina Hirsch   | Viergewinnt    | Cheng      |
-| 12    | Karagol, Kittich                  | [Viergewinnt](./phase1/group-12.md)    | Cheng      |
+| 10    | Luca Schwegler, Michael Wagner    | [Newton-Fraktale](./phase/group-10.md)| Cheng      |
+| 11    | Carolin Cichy, Katharina Hirsch   | [Viergewinnt](./phase1/group-11.md)    | Cheng      |
+| 12    | Rafael Karagol, Juliana Kittich   | [Viergewinnt](./phase1/group-12.md)    | Cheng      |
 | 13    | Bianca Löhn, Amelie Reick         | [Viergewinnt](./phase1/group-13.md)    | Cheng      |
 | 14    | Marlene Meßmer, Sarah Meister     | [Viergewinnt](./phase1/group-14.md)    | Cheng      |
 | 15    | Sonja Wüst, Rebekka Reimund       | [Viergewinnt](./phase1/group-15.md)    | Cheng      |

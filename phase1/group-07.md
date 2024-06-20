@@ -25,3 +25,13 @@ Below, you'll find a summary of our discussion.
 **Other feedback:**
 
 - To provide an option for the color scheme, `argparse` could be used to specify the choices of all color schemes from `Matplotlib`.
+
+### Thursday (June 20)
+
+Summary of feedback after second week
+
+Below, you'll find a summary of our discussion.
+
+**Activity:**
+
+- Finshed the project and very nice pictures.
