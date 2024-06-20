@@ -111,7 +111,7 @@ It is not mandatory to discuss in this week.
 | 07    | Alina Sattler, Lucia-Bettina Seitz| [Newton-Fraktale](./phase1/group-07.md)| Cheng      |
 | 08    | Sandra Grabisch, Nico Schöck      | [Newton-Fraktale](./phase1/group-08.md)| Cheng      |
 | 09    | Armin Richter, Julia Henning      | [Newton-Fraktale](./phase1/group-09.md)| Cheng      |
-| 10    | Luca Schwegler, Michael Wagner    | [Newton-Fraktale](./phase/group-10.md)| Cheng      |
+| 10    | Luca Schwegler, Michael Wagner    | [Newton-Fraktale](./phase1/group-10.md)| Cheng      |
 | 11    | Carolin Cichy, Katharina Hirsch   | [Viergewinnt](./phase1/group-11.md)    | Cheng      |
 | 12    | Rafael Karagol, Juliana Kittich   | [Viergewinnt](./phase1/group-12.md)    | Cheng      |
 | 13    | Bianca Löhn, Amelie Reick         | [Viergewinnt](./phase1/group-13.md)    | Cheng      |
