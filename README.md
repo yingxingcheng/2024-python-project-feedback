@@ -31,6 +31,13 @@ See [this page](./phase1/README.md) for more details about phase 1.
 
 **Welcome to the second project!**
 
+### How to Make an Appointment?
+
+If you want to make an appointment, you can:
+
+1. **Edit this file directly online and then make a pull request.** (Highly recommended, but requires some knowledge of GitHub and Markdown)
+2. **Send me an email.**
+
 For Phase 2, my available office times for discusstion are listed below:
 
 #### Week 1
@@ -61,7 +68,7 @@ For Phase 2, my available office times for discusstion are listed below:
 |-------|--------------------------|----------------------------|------------|
 | 01    | Bianca Löhn, Amelie Reick| [Schaltkreis-Analyse](./phase2/group-01.md) | Cheng      |
 | 02    | Sandra Grabisch, Nico Schöck| [Schaltkreis-Analyse](./phase2/group-02.md) | Cheng      |
-| 03    | Dinh, Oheim| [Schaltkreis-Analyse](./phase2/group-03.md) | Cheng      |
+| 03    | Tony Tien Thanh Dinh, Fabian Oheim| [Schaltkreis-Analyse](./phase2/group-03.md) | Cheng      |
 | 04    | Anisa Emrulai, Aurelio Gasparro| [Schaltkreis-Analyse](./phase2/group-04.md) | Cheng      |
 | 05    | Michel Albrecht, Merlin Schober| [Schaltkreis-Analyse](./phase2/group-05.md) | Cheng      |
 | 06    | Rebekka Reimund, Sonja Wüst| [Gradientenverfahren](./phase2/group-06.md) | Cheng      |
