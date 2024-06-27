@@ -43,7 +43,7 @@ For Phase 2, my available office times for discusstion are listed below:
 #### Week 1
 
 - Tuesday (July 02, 2024) 2:00 pm – 4:00 pm
-  - [ ] 2:00 pm -- 2:15 pm:  
+  - [ ] 2:00 pm -- 2:15 pm:
   - [ ] 2:15 pm -- 2:30 pm:
   - [ ] 2:30 pm -- 2:45 pm:
   - [ ] 2:45 pm -- 3:00 pm:
@@ -53,7 +53,7 @@ For Phase 2, my available office times for discusstion are listed below:
   - [ ] 3:45 pm -- 4:00 pm:
 
 - Wed (July 03, 2024) 2:00 pm – 4:00 pm
-  - [ ] 2:00 pm -- 2:15 pm:  
+  - [ ] 2:00 pm -- 2:15 pm:
   - [ ] 2:15 pm -- 2:30 pm:
   - [ ] 2:30 pm -- 2:45 pm:
   - [ ] 2:45 pm -- 3:00 pm:
@@ -74,3 +74,42 @@ For Phase 2, my available office times for discusstion are listed below:
 | 06    | Rebekka Reimund, Sonja Wüst| [Gradientenverfahren](./phase2/group-06.md) | Cheng      |
 | 07    | Luca Schwegler, Michael Wagner| [Gradientenverfahren](./phase2/group-07.md) | Cheng      |
 | 08    | Julia Henning, Armin Richter| [Gradientenverfahren](./phase2/group-08.md) | Cheng      |
+
+### Some Project Hints
+
+#### Schaltkreis-Analyse
+
+- To run `demo.py`, `schemdraw` should be installed first.
+  The easiest way is to run the following command
+
+  ```bash
+  pip install schemdraw
+  ```
+
+  See [this guide](https://schemdraw.readthedocs.io/en/stable/usage/start.html) for more details.
+
+- You also need to copy the `schemutils.py` file into the same directory or comment out the line `from schemutils import convert_to_graph, add_solution`, which is not used in the latest `demo.py` file.
+
+- If you run the IDE and no figure is displayed after running the script, you can try the following ways to fix this issue:
+
+  - Run the script in your terminal:
+
+    ```bash
+    python demo.py
+    ```
+
+  - Save the figure instead of displaying it directly in your IDE by modifying `demo.py` and using `d.save()`:
+
+    ```python
+    # ... it is the same as the original one
+    d = demo_drawing()
+    # d.draw()
+    d.save("demo.svg")
+    ```
+
+    Then you should get a file named `demo.svg` as follows:
+    ![demo.svg](./phase2/demo.svg)
+
+    I also attached this modified `demo.py` file in this repo. See [demo.py](./phase2/demo.py).
+
+#### Gradientenverfahren
