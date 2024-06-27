@@ -47,7 +47,7 @@ For Phase 2, my available office times for discusstion are listed below:
   - [ ] 2:15 pm -- 2:30 pm:
   - [ ] 2:30 pm -- 2:45 pm:
   - [ ] 2:45 pm -- 3:00 pm:
-  - [ ] 3:00 pm -- 3:15 pm:
+  - [x] 3:00 pm -- 3:15 pm: Group 01, Schaltkreis-Analyse (online via Webex)
   - [ ] 3:15 pm -- 3:30 pm:
   - [ ] 3:30 pm -- 3:45 pm:
   - [ ] 3:45 pm -- 4:00 pm:
