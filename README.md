@@ -52,8 +52,8 @@ For Phase 2, my available office times for discusstion are listed below:
   - [ ] 3:30 pm -- 3:45 pm:
   - [ ] 3:45 pm -- 4:00 pm:
 
-- Wed (July 03, 2024) 2:00 pm – 4:00 pm
-  - [ ] 2:00 pm -- 2:15 pm:
+- Wednesday (July 03, 2024) 2:00 pm – 4:00 pm
+  - [x] 2:00 pm -- 2:15 pm: Group 06, Gradientverfahren
   - [ ] 2:15 pm -- 2:30 pm:
   - [ ] 2:30 pm -- 2:45 pm:
   - [ ] 2:45 pm -- 3:00 pm:
