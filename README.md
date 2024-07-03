@@ -77,7 +77,7 @@ For Phase 2, my available office times for discusstion are listed below:
 - Wednesday (July 10, 2024) 2:00 pm – 4:00 pm
   - [x] 2:00 pm -- 2:15 pm: Group 06, Gradientverfahren
   - [ ] 2:15 pm -- 2:30 pm:
-  - [ ] 2:30 pm -- 2:45 pm:
+  - [x] 2:30 pm -- 2:45 pm: Group 02, Schaltkreis-Analyse
   - [ ] 2:45 pm -- 3:00 pm:
   - [x] 3:00 pm -- 3:15 pm: Group 05, Schaltkreis-Analyse
   - [ ] 3:15 pm -- 3:30 pm:
