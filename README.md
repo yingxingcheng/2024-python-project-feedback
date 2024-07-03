@@ -67,14 +67,14 @@ For Phase 2, my available office times for discusstion are listed below:
   - [ ] 2:30 pm -- 2:45 pm:
   - [ ] 2:45 pm -- 3:00 pm:
   - [ ] 3:00 pm -- 3:15 pm:
-  - [ ] 3:15 pm -- 3:30 pm:
+  - [x] 3:15 pm -- 3:30 pm: Group 03, Schaltkreis-Analyse
   - [ ] 3:30 pm -- 3:45 pm:
   - [ ] 3:45 pm -- 4:00 pm:
 
 - Wednesday (July 10, 2024) 2:00 pm – 4:00 pm
-  - [ ] 2:00 pm -- 2:15 pm:
+  - [x] 2:00 pm -- 2:15 pm: Group 06, Gradientverfahren
   - [ ] 2:15 pm -- 2:30 pm:
-  - [ ] 2:30 pm -- 2:45 pm:
+  - [x] 2:30 pm -- 2:45 pm: Group 02, Schaltkreis-Analyse
   - [ ] 2:45 pm -- 3:00 pm:
   - [x] 3:00 pm -- 3:15 pm: Group 05, Schaltkreis-Analyse
   - [ ] 3:15 pm -- 3:30 pm:
@@ -132,3 +132,5 @@ For Phase 2, my available office times for discusstion are listed below:
     I also attached this modified `demo.py` file in this repo. See [demo.py](./phase2/demo.py).
 
 #### Gradientenverfahren
+
+- The $j$ in $\{\tau^j : j \in \mathbb{N}\}$ represents the exponential power of $\tau$.
