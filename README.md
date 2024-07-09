@@ -62,6 +62,7 @@ For Phase 2, my available office times for discusstion are listed below:
 #### Week 2
 
 - Tuesday (July 09, 2024) 2:00 pm – 4:00 pm
+  - [x] 10:00 am -- 10:15 am: Group 01, Schaltkreis-Analyse
   - [ ] 2:00 pm -- 2:15 pm:
   - [ ] 2:15 pm -- 2:30 pm:
   - [ ] 2:30 pm -- 2:45 pm:

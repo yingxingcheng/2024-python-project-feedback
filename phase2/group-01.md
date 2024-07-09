@@ -21,3 +21,17 @@ Below, you'll find a summary of our discussion.
 
 - Regarding the issue with displaying the circuit when using Spyder:
   - I conducted some tests, but it doesn't work properly. Only the last figure is shown when running the entire script. My suggestion is to generate the figures in CSV or PDF format instead of displaying them directly when using Spyder.
+
+### Thuesday (July 09)
+
+Summary of feedback after the second week
+
+Below, you'll find a summary of our discussion.
+
+**Activity:**
+
+- Existing useful code for all basic requirements and some of the extensions.
+
+**Other feedback:**
+
+- Take care of the number of singular values.
