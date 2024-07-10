@@ -53,7 +53,7 @@ For Phase 2, my available office times for discusstion are listed below:
   - ~~[x] 2:15 pm -- 2:30 pm: Group 04, Schaltkreis-Analyse~~
   - [x] 2:30 pm -- 2:45 pm: Group 02, Schaltkreis-Analyse
   - [x] 3:00 pm -- 3:15 pm: Group 05, Schaltkreis-Analyse
-  
+
 </s>
 
 #### Week 2
@@ -65,7 +65,7 @@ For Phase 2, my available office times for discusstion are listed below:
   - [ ] 2:30 pm -- 2:45 pm:
   - [ ] 2:45 pm -- 3:00 pm:
   - [ ] 3:00 pm -- 3:15 pm:
-  - [ ] 3:15 pm -- 3:30 pm: 
+  - [ ] 3:15 pm -- 3:30 pm:
   - [x] 3:30 pm -- 3:45 pm: Group 08, Gradientenverfahren
   - [ ] 3:45 pm -- 4:00 pm:
 
@@ -74,7 +74,7 @@ For Phase 2, my available office times for discusstion are listed below:
   - [ ] 2:15 pm -- 2:30 pm:
   - [x] 2:30 pm -- 2:45 pm: Group 02, Schaltkreis-Analyse
   - [x] 2:45 pm -- 3:00 pm: Group 04, Schaltkreis-Analyse
-  - [x] 3:00 pm -- 3:15 pm: Group 05, Schaltkreis-Analyse
+  - [x] ~~3:00 pm -- 3:15 pm: Group 05, Schaltkreis-Analyse~~
   - [x] 3:15 pm -- 3:30 pm: Group 07, Gradientverfahren
   - [ ] 3:30 pm -- 3:45 pm:
   - [ ] 3:45 pm -- 4:00 pm:
