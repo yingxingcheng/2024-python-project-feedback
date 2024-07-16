@@ -65,3 +65,66 @@ def visualize_solution(s, loesung, spannung_unbekannte, stromstaerke_unbekannte)
     # Zeichnung anzeigen
     s.draw()
 ```
+
+```python
+# Erstellung des linearen Gleichungssystems
+def lgs_erstellung(vertices, edges):
+    anzahl_knoten = len(vertices)
+    anzahl_kanten = len(edges)
+
+    # Erstellung der Koeffizentenmatrix sowie der rechten Seite des linearen Gleichungssystems
+    A = np.zeros((anzahl_knoten + anzahl_kanten, anzahl_knoten + anzahl_kanten))
+    b = np.zeros(anzahl_knoten + anzahl_kanten)
+
+    knoten_index = {knoten: idx for idx, knoten in enumerate(sorted(vertices))}
+    kante_index = {kante: idx for idx, kante in enumerate(sorted(edges.keys()))}
+
+    # Berechung der Spannung mit der Knoten-Gleichungen (Kirchhoff'sches Knotenstromgesetz)
+    for knoten, knoten_idx in knoten_index.items():
+        reihe = knoten_idx
+        for kante, (komponente, wert) in edges.items():
+            xa, ya, xb, yb = kante
+            if (xa, ya) == knoten:
+                spalte = anzahl_knoten + kante_index[kante]
+                A[reihe, spalte] = 1
+            elif (xb, yb) == knoten:
+                spalte = anzahl_knoten + kante_index[kante]
+                A[reihe, spalte] = -1
+
+    # Berechung der Stromstärke mit der Kanten-Gleichungen (Verhalten der einzelnen Komponenten)
+    for kante, (komponente, wert) in edges.items():
+        # you can print the info to check if it is correct.
+        print(komponente)
+        xa, ya, xb, yb = kante
+        reihe = anzahl_knoten + kante_index[kante]
+
+        # Draht
+        if komponente == "-":
+            spalte_a = knoten_index[(xa, ya)]
+            spalte_b = knoten_index[(xb, yb)]
+            A[reihe, spalte_a] = 1
+            A[reihe, spalte_b] = -1
+            b[reihe] = 0
+        # Widerstand
+        elif komponente == "Ω":  # use Ω instead of Ω
+            spalte_a = knoten_index[(xa, ya)]
+            spalte_b = knoten_index[(xb, yb)]
+            A[reihe, spalte_a] = 1
+            A[reihe, spalte_b] = -1
+            A[reihe, reihe] = -wert
+            b[reihe] = 0
+        # Spannungsquelle
+        elif komponente == "V":
+            spalte_a = knoten_index[(xa, ya)]
+            spalte_b = knoten_index[(xb, yb)]
+            A[reihe, spalte_a] = 1
+            A[reihe, spalte_b] = -1
+            b[reihe] = wert
+        # Stromquelle
+        elif komponente == "A":
+            A[reihe, reihe] = 1
+            b[reihe] = wert
+
+    return A, b
+
+```
