@@ -16,3 +16,13 @@ Below, you'll find a summary of our discussion.
 **Activity:**
 
 - Started the project and got familiar with the demo code.
+
+### Tuesday (July 16)
+
+Summary of feedback after second week
+
+Below, you'll find a summary of our discussion.
+
+**Activity:**
+
+- Discussions about minor issues.

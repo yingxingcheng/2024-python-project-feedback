@@ -17,3 +17,13 @@ Below, you'll find a summary of our discussion.
 
 - Existing useful code for tasks (a).
 - Using `SymPy` is good.
+
+### Tuesday (July 16)
+
+Summary of feedback after second week
+
+Below, you'll find a summary of our discussion.
+
+**Activity:**
+
+- Discussions about minor issues.

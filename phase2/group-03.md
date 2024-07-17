@@ -21,3 +21,13 @@ Below, you'll find a summary of our discussion.
 
 - Make a nicer plot using `tight_layout`.
 - Unit testing using pytest (optional).
+
+### Tuesday (July 16)
+
+Summary of feedback after second week
+
+Below, you'll find a summary of our discussion.
+
+**Activity:**
+
+- Discussions about minor issues.
